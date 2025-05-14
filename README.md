@@ -37,7 +37,7 @@ Les deux agents apprennent et optimisent leurs stratégies grâce à l’algorit
 ## 📊 Exemples de visualisation
 
 - **Interface principale** :  
-  ![Interface principale](./docs/interface.png)
+  ![Interface principale](./docs/interface.PNG)
 - **Graphique des résultats** :  
   ![Graphique JFreeChart](./docs/graphique.png)
 
